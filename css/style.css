@@ -1,0 +1,97 @@
+body{
+	background-color: #5b3b91;
+
+}
+
+.cabeza{
+	background-color:#987fc4;
+	color:#eff0f2;
+	padding: 10px;
+	}
+
+h1{
+	font-size: 2em;
+	padding-left: 500px;
+}
+
+.areauno{
+	margin-top: 2px;
+}
+.campouno{
+   border-radius: 15px 15px 15px 15px;
+   
+   width: 250px;
+   height: 270px;
+   padding: 20px;
+   background-color:#e5e6df ;
+   display:block;
+   float: left;
+   margin: 10px;
+}
+.campodos{
+   border-radius: 15px 15px 15px 15px;
+   
+   width: 250px;
+   height: 160px;
+   padding: 20px;
+   background-color:#e5e6df ;
+   display:block;
+   float: left;
+   margin: 10px;
+}
+.campotres{
+   border-radius: 15px 15px 15px 15px;
+  
+   width: 250px;
+   height: 100px;
+   padding: 20px;
+   background-color:#e5e6df ;
+   display:block;
+   float: left;
+   margin: 10px;
+}
+.campocuatro{
+   border-radius: 15px 15px 15px 15px;
+  
+   width: 250px;
+   height: 50px;
+   padding: 20px;
+   background-color:#e5e6df ;
+   display:block;
+   float: left;
+   margin: 10px;
+}
+
+.form-control{
+	height:30px;
+	width: 250px;
+
+}
+
+.btn-default{
+	margin-top: 10px;
+	padding: 10px;
+	width: 100px;
+	border-radius: 5px;
+	background-color: #987fc4;
+}
+
+.bt{
+    margin-top:50px;
+	padding: 10px;
+	width: 100px;
+	border-radius: 5px;
+	background-color:#987fc4;
+	color:black ;
+
+}
+
+.in{
+	margin-top: 20px;
+	padding: 10px;
+	width: 50px;
+	border-radius: 5px;
+	background-color:#987fc4;
+	color:black;
+
+}
